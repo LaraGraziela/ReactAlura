@@ -1,0 +1,9 @@
+Com a extensão Simple React Snippets:
+imr = cria o import do React;
+cc = cria a classe completa;
+irmc = importa o React e o Component (Melhor pra quando for usar classes pra extender o Component).
+
+Para colocar um código JS no JSX basta abrir {}.
+event.target é o elemento que disparou o evento a partir do click.
+
+Os index.js em cada página servem para que eu não precise chamar todos os componentes no app, basta chamar só o index.js.

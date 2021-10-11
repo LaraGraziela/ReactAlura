@@ -1,0 +1,10 @@
+.lista-notas {
+    display: flex;  
+}
+.box-lista{
+    box-shadow: 0px 0px 10px 0px #bebba1;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+}
